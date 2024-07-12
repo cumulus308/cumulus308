@@ -5,7 +5,7 @@
 
 
 <h2>
-  I'm using Python. <p><img src="https://img.shields.io/badge/Python-3776AB.svg?&amp;style=flat&amp;logo=Python&amp;logoColor=white" alt="Python"></p>
+  I'm using <img src="https://img.shields.io/badge/Python-3776AB.svg?&amp;style=flat&amp;logo=Python&amp;logoColor=white" alt="Python">
 </h2>
 <!--
 **cumulus308/cumulus308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
